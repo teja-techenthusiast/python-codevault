@@ -18,8 +18,13 @@ pip install moviepy
 
 ## Usage
 1.Open the script in a Python IDE or text editor.
+
+
 2.Replace the youtube_url variable with the URL of the YouTube video you want to extract audio from.
-3.Run the script.
+
+
+3.Run the script(audio.py).
+
 The extracted audio will be saved as an MP3 file in the specified output directory
 
 # Note:  
