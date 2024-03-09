@@ -4,7 +4,7 @@
 This is a simple game developed using Python's Tkinter library. The objective of the game is to catch falling eggs using a catcher controlled by the player. As the game progresses, the speed of falling eggs increases, providing a challenge to the player. The player has three lives, which decrease whenever an egg hits the ground without being caught. The game ends when all lives are lost, and the final score is displayed.
 
 ## How to Play:
-- Run the Python script provided (`catch_the_eggs.py`).
+- Run the Python script provided (`egg.py`).
 - Use the left and right arrow keys to move the catcher horizontally.
 - Try to catch as many eggs as possible to increase your score and avoid letting them hit the ground.
 - The game ends when you lose all three lives.
