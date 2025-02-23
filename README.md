@@ -1,4 +1,4 @@
-# 📌 Python CodeVault
+#  Python CodeVault
 
 Welcome to **Python CodeVault** – a collection of Python programs categorized into different domains. This repository is designed to serve as a learning resource and a utility hub for various Python applications.
 
@@ -68,17 +68,4 @@ pythoncodes/
 - 🔹 GUI-based programs including **Digital Clock** and **Alarm Clock**.
 - 🔹 File handling and mathematical programs for practice.
 
----
-
-## 🤝 Contributing
-Contributions are always welcome! If you have ideas for new features or improvements, feel free to submit a pull request.
-
----
-
-## 📜 License
-This project is open-source and available for use and modification.
-
----
-
-### ⭐ Don't forget to star this repository if you find it useful! ⭐
 
