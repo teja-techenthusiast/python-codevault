@@ -4,7 +4,7 @@ Welcome to **Python CodeVault** – a collection of Python programs categorized 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 pythoncodes/
@@ -40,7 +40,7 @@ pythoncodes/
 
 ---
 
-## 🚀 How to Use
+##  Useage
 
 1. **Clone the repository:**
    ```sh
@@ -62,7 +62,7 @@ pythoncodes/
 
 ---
 
-## 🎯 Features
+## Features
 - 🔹 A variety of Python programs ranging from beginner to advanced levels.
 - 🔹 Utility scripts such as **QR Code Generator**, **PDF to Text Converter**, and **Password Generator**.
 - 🔹 GUI-based programs including **Digital Clock** and **Alarm Clock**.
